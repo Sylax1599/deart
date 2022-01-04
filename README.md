@@ -5,7 +5,7 @@ Link demo: [Deart](https://deart.netlify.app).
 ## Tecnologías usadas
 
 ### React
-<img src="https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png"
+<img src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px; width: 30%; height: 30% "/>
 
